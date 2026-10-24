@@ -2,9 +2,6 @@
 
 This repository contains my configuration and setup for secure, private package management using AWS CodeArtifact and Apache Maven. This project represents Part 3 of my ongoing DevOps roadmap to build an automated, secure CI/CD pipeline!
 
-
-[README (1).md](https://github.com/user-attachments/files/33912280/README.1.md)
-
 # Secure Packages with CodeArtifact
 
 **Project Link:** [View Project](https://nextwork.ai/projects/8c60d99f-e8ff-519e-a0d6-e8dfe8fa1b67)
