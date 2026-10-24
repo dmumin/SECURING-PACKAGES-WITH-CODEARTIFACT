@@ -93,8 +93,13 @@ After compiling, I checked my private AWS CodeArtifact repository. I noticed tha
 
 ![Image](https://nextwork.ai/vibrant_magenta_brave_angelfish/uploads/8c60d99f-e8ff-519e-a0d6-e8dfe8fa1b67_1d79e699)
 
-## Uploading My Own Packages
+Contact
+If you have any questions or comments about My Web Project, please contact: dmumin - [My Email](mailto:dahirmumin7@gmail.com)
 
+[LinkedIn] (https://www.linkedin.com/in/dahir-mumin-661682335/)
+
+Conclusion
+Thank you for exploring my project! I'll continue to build this pipeline and apply my learnings to future projects.
 
 
 ---
